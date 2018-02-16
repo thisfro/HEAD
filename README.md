@@ -3,12 +3,12 @@
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Contributors](https://img.shields.io/github/contributors/joshbuchea/head.svg)](https://github.com/joshbuchea/HEAD/graphs/contributors)
 
-A list of everything that \*could\* go in the `<head>` of your document
+Alles was in das <head>-Element einer HTML-Datei kommen kann. 
 
-## Table of Contents
+## Inhaltsverzeichnis
 
-- [Recommended Minimum](#recommended-minimum)
-- [Elements](#elements)
+- [Empfohlenes Minimum](#empfohlenes-minimum)
+- [Elemente](#elemente)
 - [Meta](#meta)
 - [Link](#link)
 - [Icons](#icons)
@@ -30,14 +30,14 @@ A list of everything that \*could\* go in the `<head>` of your document
   - [QQ Mobile Browser](#qq-mobile-browser)
   - [UC Mobile Browser](#uc-mobile-browser)
 - [App Links](#app-links)
-- [Other Resources](#other-resources)
-- [Related Projects](#related-projects)
-- [Other Formats](#other-formats)
-- [Translations](#translations)
-- [Contributing](#contributing)
-  - [Contributors](#contributors)
-- [Author](#author)
-- [License](#license)
+- [Weitere Ressourcen](#weitere-resources)
+- [Verwandte Projekte](#verwandte-projekte)
+- [Andere Formate](#andere-formate)
+- [Übersetzungen](#übersetzungen)
+- [Beitragen](#Beitragen)
+  - [Beitragende](#beitragende)
+- [Autor](#autor)
+- [Lizens](#lizens)
 
 ## Recommended Minimum
 
