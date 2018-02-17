@@ -77,7 +77,7 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 <!-- Legt den Titel des Dokumentes fest -->
 <title>Page Title</title>
 
-<!-- Legt die Basis URL fr alle relativen URLs 
+<!-- Legt die Basis URL für alle relativen URLs 
   innerhalb des Dokumentes fest -->
 <base href="http://example.com/page.html">
 
@@ -184,7 +184,7 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 - 📖 [ICBM on Wikipedia](https://en.wikipedia.org/wiki/ICBM_address#Modern_use)
 - 📖 [Geotagging on Wikipedia](https://en.wikipedia.org/wiki/Geotagging#HTML_pages)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ nach oben](#inhaltsverzeichnis)**
 
 ## Link
 
@@ -260,7 +260,7 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 
 - 📖 [Link Relations](https://www.iana.org/assignments/link-relations/link-relations.xhtml)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ nach oben](#inhaltsverzeichnis)**
 
 ## Icons
 
@@ -283,7 +283,7 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 - 📖 [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
 - 📖 [Icons & Browser Colors](https://developers.google.com/web/fundamentals/design-and-ux/browser-customization/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ nach oben](#inhaltsverzeichnis)**
 
 ## Social
 
@@ -380,7 +380,7 @@ Pinterest lets you prevent people from saving things from your website, accordin
 
 - 📖 [oEmbed format](http://oembed.com/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ nach oben](#inhaltsverzeichnis)**
 
 ## Browsers / Platforms
 
@@ -467,7 +467,7 @@ Pinterest lets you prevent people from saving things from your website, accordin
 <meta name="msapplication-task-separator" content="1">
 ```
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ nach oben](#inhaltsverzeichnis)**
 
 ## Browsers (Chinese)
 
@@ -518,7 +518,7 @@ Pinterest lets you prevent people from saving things from your website, accordin
 
 - 📖 [UC Browser Docs](http://www.uc.cn/download/UCBrowser_U3_API.doc)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ nach oben](#inhaltsverzeichnis)**
 
 ## App Links
 
@@ -546,7 +546,7 @@ Pinterest lets you prevent people from saving things from your website, accordin
 - 📖 [HTML5 Boilerplate Docs: The HTML](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md)
 - 📖 [HTML5 Boilerplate Docs: Extend and customize](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/extend.md)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ nach oben](#inhaltsverzeichnis)**
 
 ## Related Projects
 
@@ -555,13 +555,13 @@ Pinterest lets you prevent people from saving things from your website, accordin
 - [head-it](https://github.com/hemanth/head-it) - CLI interface for `HEAD` snippets
 - [vue-head](https://github.com/ktquez/vue-head) - Manipulating the meta information of the `HEAD` tag for Vue.js
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ nach oben](#inhaltsverzeichnis)**
 
 ## Other Formats
 
 - 📄 [PDF](https://gitprint.com/joshbuchea/HEAD/blob/master/README.md)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ nach oben](#inhaltsverzeichnis)**
 
 ## Translations
 
@@ -573,7 +573,7 @@ Pinterest lets you prevent people from saving things from your website, accordin
 - 🇷🇺 [Russian/Русский](https://github.com/Konfuze/HEAD)
 - 🇹🇷 [Turkish/Türkçe](https://github.com/mkg0/HEAD)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ nach oben](#inhaltsverzeichnis)**
 
 ## Contributing
 
@@ -612,4 +612,4 @@ Check out all the super awesome [contributors](https://github.com/joshbuchea/HEA
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ nach oben](#inhaltsverzeichnis)**
