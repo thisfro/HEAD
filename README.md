@@ -48,58 +48,58 @@ Unten sind die essentiellen Elemente eines jeden Webdokumentes (Webseiten/Apps):
 <meta http-equiv="x-ua-compatible" content="ie=edge"> <!-- † -->
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <!--
-  Diese 3 Meta-Tags *sollten* in jedem <head>-Element als erstes stehen, 
+  Diese 3 Meta-Tags *müssen* in jedem <head>-Element als erstes stehen, 
   um sicherzustellen, dass das Dokument richtig dargestellt wird.
   Alle anderen Elemente im <head>-Element sollten *nach* diesen Tags stehen.
 
   † Man benutzt den content="ie-edge" Tag, wenn das Projekt 
-    Internet Explorer vor Version 11 unterstuetzt.
-
+    Internet Explorer vor Version 11 unterstützt.
  -->
 <title>Seiten Titel</title>
 ```
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
-## Elements
+## Elemente
 
-Valid `<head>` elements include `meta`, `link`, `title`, `style`, `script`, `noscript`, and `base`.
+Gültige `<head>` Elemente schließen `meta`, `link`, `title`, `style`, `script`, `noscript`, und `base` ein.
 
-These elements provide information for how a document should be perceived, and rendered, by web technologies. e.g. browsers, search engines, bots, etc.
+Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiedensten Webtechnologien aufgenommen und dargestellt werden soll, z.B. von Browsern, Suchmaschinen, Robotern, usw.
 
 ```html
 <!--
-  Set the character encoding for this document, so that
-  all characters within the UTF-8 space (such as emoji)
-  are rendered correctly.
+  Legt die Zeichenkodierung für dieses Dokument fest, so 
+  das alle Zeichen innerhalb UTF-8 (zum Beispiel Umlaute)
+  richtig dargestellt werden.
 -->
 <meta charset="utf-8">
 
-<!-- Set the document's title -->
+<!-- Legt den Titel des Dokumentes fest -->
 <title>Page Title</title>
 
-<!-- Set the base URL for all relative URLs within the document -->
+<!-- Legt die Basis URL fr alle relativen URLs 
+  innerhalb des Dokumentes fest -->
 <base href="http://example.com/page.html">
 
-<!-- Link to an external CSS file -->
+<!-- Verlinkt zu einem externen CSS-Dokument -->
 <link rel="stylesheet" href="styles.css">
 
-<!-- Used for adding in-document CSS -->
+<!-- Für CSS innerhalb des Dokumentes -->
 <style>
   /* ... */
 </style>
 
-<!-- JavaScript & No-JavaScript tags -->
+<!-- JavaScript & No-JavaScript Tags -->
 <script src="script.js"></script>
 <script>
   // function(s) go here
 </script>
 <noscript>
-  <!-- No JS alternative -->
+  <!-- Kein JS Alternative -->
 </noscript>
 ```
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ nach oben](#inhaltsverzeichnis)**
 
 ## Meta
 
