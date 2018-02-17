@@ -39,27 +39,27 @@ Alles was in das <head>-Element einer HTML-Datei kommen kann.
 - [Autor](#autor)
 - [Lizens](#lizens)
 
-## Recommended Minimum
+## Empfohlenes Minimum
 
-Below are the essential elements for any web document (websites/apps):
+Unten sind die essentiellen Elemente eines jeden Webdokumentes (Webseiten/Apps):
 
 ```html
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge"> <!-- † -->
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <!--
-  The above 3 meta tags *must* come first in the <head>
-  to consistently ensure proper document rendering.
-  Any other head element should come *after* these tags.
+  Diese 3 Meta-Tags *sollten* in jedem <head>-Element als erstes stehen, 
+  um sicherzustellen, dass das Dokument richtig dargestellt wird.
+  Alle anderen Elemente im <head>-Element sollten *nach* diesen Tags stehen.
 
-  † Use the content="ie-edge" tag if your project
-    supports Internet Explorer prior to version 11.
+  † Man benutzt den content="ie-edge" Tag, wenn das Projekt 
+    Internet Explorer vor Version 11 unterstuetzt.
 
  -->
-<title>Page Title</title>
+<title>Seiten Titel</title>
 ```
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ nach oben](#inhaltsverzeichnis)**
 
 ## Elements
 
