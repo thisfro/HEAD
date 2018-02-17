@@ -105,42 +105,42 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 
 ```html
 <!--
-  The following 3 meta tags *must* come first in the <head>
-  to consistently ensure proper document rendering.
-  Any other head element should come *after* these tags.
+  Diese 3 Meta-Tags *müssen* in jedem <head>-Element als erstes stehen, 
+  um sicherzustellen, dass das Dokument richtig dargestellt wird.
+  Alle anderen Elemente im <head>-Element sollten *nach* diesen Tags stehen.
 -->
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <!--
-  Allows control over where resources are loaded from.
-  Place as early in the <head> as possible, as the tag  
-  only applies to resources that are declared after it.
+  Erlaubt die Kontrolle, von wo Ressourcen geladen werden.
+  Sollte so weit obend wie möglich im <head> platziert werden, da 
+  nur die Ressourcen nach diesem Tag berücksichtigt werden.
 -->
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
 
-<!-- Name of web application (only should be used if the website is used as an app) -->
+<!-- Name der Web Applikation (sollte nur genutzt werden, wenn die Webseite wie eine App genutzt wird) -->
 <meta name="application-name" content="Application Name">
 
-<!-- Theme Color for Chrome, Firefox OS and Opera -->
+<!-- Hauptfarbe für Chrome, Firefox OS und Opera -->
 <meta name="theme-color" content="#4285f4">
 
-<!-- Short description of the document (limit to 150 characters) -->
-<!-- This content *may* be used as a part of search engine results. -->
-<meta name="description" content="A description of the page">
+<!-- Eine kurze Beschreibung des Dokuments (max. 150 Zeichen)
+     Diese wird möglicherweise in Suchmaschinen angezeigt. -->
+<meta name="description" content="Eine Beschreibung der Webseite">
 
-<!-- Control the behavior of search engine crawling and indexing -->
-<meta name="robots" content="index,follow"><!-- All Search Engines -->
-<meta name="googlebot" content="index,follow"><!-- Google Specific -->
+<!-- Kontrolliert das Verhalten von Suchmaschinen-Crawlern und Indexierung der Seite -->
+<meta name="robots" content="index,follow"><!-- Alle Suchmaschinen -->
+<meta name="googlebot" content="index,follow"><!-- Speziell an Google -->
 
-<!-- Tells Google not to show the sitelinks search box -->
+<!-- Sagt Google, dass in der Suche keine Sitelinks-Suchbox auftauchen soll -->
 <meta name="google" content="nositelinkssearchbox">
 
-<!-- Tells Google not to provide a translation for this document -->
+<!-- Sagt Google, dass es keine Übersetzung für das Dokument bereitstellen soll -->
 <meta name="google" content="notranslate">
 
-<!-- Verify website ownership -->
+<!-- Verifikation des Besitzers der Webseite -->
 <meta name="google-site-verification" content="verification_token"><!-- Google Search Console -->
 <meta name="yandex-verification" content="verification_token"><!-- Yandex Webmasters -->
 <meta name="msvalidate.01" content="verification_token"><!-- Bing Webmaster Center -->
@@ -148,7 +148,7 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 <meta name="p:domain_verify" content="code_from_pinterest"><!-- Pinterest Console-->
 <meta name="norton-safeweb-site-verification" content="norton_code"><!-- Norton Safe Web -->
 
-<!-- Identify the software used to build the document (i.e. - WordPress, Dreamweaver) -->
+<!-- Identifiziert die Software, mit der das Dokument erstellt wurde (z.B. WordPress, Dreamweaver) -->
 <meta name="generator" content="program">
 
 <!-- Short description of your document's subject -->
