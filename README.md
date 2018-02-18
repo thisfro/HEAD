@@ -179,10 +179,10 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 <meta name="geo.placename" content="city/town"><!-- z.B. content="New York City" -->
 ```
 
-- 📖 [Meta tags that Google understands](https://support.google.com/webmasters/answer/79812?hl=en)
-- 📖 [WHATWG Wiki: MetaExtensions](https://wiki.whatwg.org/wiki/MetaExtensions)
-- 📖 [ICBM on Wikipedia](https://en.wikipedia.org/wiki/ICBM_address#Modern_use)
-- 📖 [Geotagging on Wikipedia](https://en.wikipedia.org/wiki/Geotagging#HTML_pages)
+- 📖 [Meta-Tags, die Google versteht](https://support.google.com/webmasters/answer/79812?hl=de)
+- 📖 [WHATWG Wiki: MetaExtensions](https://wiki.whatwg.org/wiki/MetaExtensions) (auf Englisch)
+- 📖 [ICBM on Wikipedia](https://en.wikipedia.org/wiki/ICBM_address#Modern_use) (auf Englisch)
+- 📖 [Geotagging on Wikipedia](https://en.wikipedia.org/wiki/Geotagging#HTML_pages) (auf Englisch)
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
