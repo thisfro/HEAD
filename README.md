@@ -95,7 +95,7 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
   // function(s) go here
 </script>
 <noscript>
-  <!-- Kein JS Alternative -->
+  <!-- Kein JS - Alternative -->
 </noscript>
 ```
 
@@ -151,14 +151,16 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 <!-- Identifiziert die Software, mit der das Dokument erstellt wurde (z.B. WordPress, Dreamweaver) -->
 <meta name="generator" content="program">
 
-<!-- Short description of your document's subject -->
+<!-- Kurze Beschreibung des Themas des Dokumentes -->
 <meta name="subject" content="your document's subject">
 
-<!-- Gives a general age rating based on the document's content -->
+<!-- Gibt eine Altersfreigabe für das Dokument an -->
 <meta name="rating" content="General">
 
-<!-- Allows control over how referrer information is passed -->
+<!-- Erlaubt die Kontrolle darüber, wie Referrer Information weitergeleitet wird -->
 <meta name="referrer" content="no-referrer">
+
+**hier weiter**
 
 <!-- Disable automatic detection and formatting of possible phone numbers -->
 <meta name="format-detection" content="telephone=no">
