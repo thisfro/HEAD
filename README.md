@@ -265,10 +265,10 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 ## Icons
 
 ```html
-<!-- For IE 10 and below -->
-<!-- Place favicon.ico in the root directory - no tag necessary -->
+<!-- Für IE 10 und älter -->
+<!-- Platziere favicon.ico in dem Root Ordner - keine Tags notwendig -->
 
-<!-- Icon in the highest resolution we need it for -->
+<!-- Icon in der höchsten Auflösung, die gebraucht wird -->
 <link rel="icon" sizes="192x192" href="/path/to/icon.png">
 
 <!-- Apple Touch Icon (reuse 192px icon.png) -->
@@ -341,7 +341,7 @@ Wenn Tweets in die Webseite eingebunden werden, dann kann Twitter Informationen 
 
 **Hinweis:** Dieses Markup verlangt Attribute im ersten html-Tag
 
-- 🛠 Testen Sie die Webseite mit dem [Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/)
+- 🛠 Testen Sie die Webseite mit dem [Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) (auf Englisch)
 
 ### Pinterest
 
@@ -516,7 +516,7 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 <meta name="wap-font-scale" content="no">
 ```
 
-- 📖 [UC Browser Docs](http://www.uc.cn/download/UCBrowser_U3_API.doc)
+- 📖 [UC Browser Docs](http://www.uc.cn/download/UCBrowser_U3_API.doc) (auf Englisch)
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
@@ -537,14 +537,14 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 <meta property="al:web:url" content="http://applinks.org/documentation">
 ```
 
-- 📖 [App Links](http://applinks.org/documentation/)
+- 📖 [App Links](http://applinks.org/documentation/) (auf Englisch)
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
 ## Weitere Ressourcen
 
-- 📖 [HTML5 Boilerplate Docs: The HTML](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md)
-- 📖 [HTML5 Boilerplate Docs: Extend and customize](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/extend.md)
+- 📖 [HTML5 Boilerplate Docs: The HTML](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md) (auf Englisch)
+- 📖 [HTML5 Boilerplate Docs: Extend and customize](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/extend.md) (auf Englisch)
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
@@ -559,7 +559,7 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 
 ## Andere Formate
 
-- 📄 [PDF](https://gitprint.com/joshbuchea/HEAD/blob/master/README.md)
+- 📄 [PDF](https://gitprint.com/joshbuchea/HEAD/blob/master/README.md) (auf Englisch)
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
@@ -577,32 +577,11 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 
 ## Beitragen
 
-**Open an issue or a pull request to suggest changes or additions.**
-
-### Guide
-
-The **HEAD** repository consists of two branches:
-
-#### 1. `master`
-
-This branch consists of the `README.md` file that is automatically reflected on the [gethead.info](https://gethead.info/) website. All changes to the content of the cheat sheet as such should be directed to this file.
-
-Please follow these steps for pull requests:
-
-- Modify only one tag, or one related set of tags at a time
-- Use double quotes on attributes
-- Don't include a trailing slash in self-closing elements — the HTML5 spec says they're optional
-- Consider including a link to documentation that supports your change
-
-#### 2. `gh-pages`
-
-This branch is responsible for the [gethead.info](https://gethead.info/) website. We use [Jekyll](https://jekyllrb.com/) to deploy the `README.md` Markdown file through [GitHub Pages](https://pages.github.com/). All website related modifications must be directed here.
-
-You may want to go through the [Jekyll Docs](https://jekyllrb.com/docs/home/) and understand how Jekyll works before working on this branch.
+Öffne ein *Issue*, um auf Verbesserungen oder Änderungen hinzuweisen oder mache ein *Pull Request*, um selber diesem Dokument etwas hinzuzufügen.
 
 ### Beitragende
 
-Check out all the super awesome [contributors](https://github.com/joshbuchea/HEAD/graphs/contributors).
+Hier sind alle Beitragende zu diesem Dokument zu sehen [contributors](https://github.com/Shidigital/HEAD/graphs/contributors).
 
 ## Autor
 
