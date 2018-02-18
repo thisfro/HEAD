@@ -189,26 +189,29 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 ## Link
 
 ```html
-<!-- Points to an external stylesheet -->
+<!-- Verlinkt ein externes Stylesheet -->
 <link rel="stylesheet" href="http://example.com/styles.css">
 
-<!-- Helps prevent duplicate content issues -->
+<!-- Verhindert Probleme mit verdoppelten Inhalten -->
 <link rel="canonical" href="http://example.com/article/?page=2">
 
-<!-- Links to an AMP HTML version of the current document -->
+<!-- Verlinkt zu einer AMP HTML Version des aktuellen Dokumentes -->
 <link rel="amphtml" href="http://example.com/path/to/amp-version.html">
 
-<!-- Links to a JSON file that specifies "installation" credentials for the web applications -->
+<!-- Verlinkt zu einer JSON-Datei, welche Installations Daten für eine WebApp bereitstellt -->
 <link rel="manifest" href="manifest.json">
 
-<!-- Links to information about the author(s) of the document -->
+<!-- Verlinkt zu Informationen über den/die Autor(en) des Dokumentes -->
 <link rel="author" href="humans.txt">
 
-<!-- Refers to a copyright statement that applies to the link's context -->
+<!-- Referriert zu einem Statement zum Urheberrecht im Zusammenhang mit dem angegebenen Link -->
 <link rel="license" href="copyright.html">
 
-<!-- Gives a reference to a location in your document that may be in another language -->
+<!-- Gibt eine Referenz zu einem Ort im Dokument, welcher eine andere Sprache benutzt -->
 <link rel="alternate" href="https://es.example.com/" hreflang="es">
+
+
+***ab hier weiter***
 
 <!-- Provides information about an author or another person -->
 <link rel="me" href="https://google.com/profiles/thenextweb" type="text/html">
