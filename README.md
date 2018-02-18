@@ -541,29 +541,29 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
-## Other Resources
+## Weitere Ressourcen
 
 - 📖 [HTML5 Boilerplate Docs: The HTML](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/html.md)
 - 📖 [HTML5 Boilerplate Docs: Extend and customize](https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/extend.md)
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
-## Related Projects
+## Verwandte Projekte
 
-- [Atom HTML Head Snippets](https://github.com/joshbuchea/atom-html-head-snippets) - Atom package for `HEAD` snippets
-- [Sublime Text HTML Head Snippets](https://github.com/marcobiedermann/sublime-head-snippets) - Sublime Text package for `HEAD` snippets
-- [head-it](https://github.com/hemanth/head-it) - CLI interface for `HEAD` snippets
-- [vue-head](https://github.com/ktquez/vue-head) - Manipulating the meta information of the `HEAD` tag for Vue.js
+- [Atom HTML Head Snippets](https://github.com/joshbuchea/atom-html-head-snippets) - Atom package für `HEAD` Snippets
+- [Sublime Text HTML Head Snippets](https://github.com/marcobiedermann/sublime-head-snippets) - Sublime Text package für `HEAD` Snippets
+- [head-it](https://github.com/hemanth/head-it) - CLI interface für `HEAD` Snippets
+- [vue-head](https://github.com/ktquez/vue-head) - Manipulieren der Meta Information in dem `HEAD` Tag mit Vue.js
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
-## Other Formats
+## Andere Formate
 
 - 📄 [PDF](https://gitprint.com/joshbuchea/HEAD/blob/master/README.md)
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
-## Translations
+## Übersetzungen
 
 - 🇧🇷 [Brazilian Portuguese](https://github.com/Webschool-io/HEAD)
 - 🇨🇳 [Chinese (Simplified)](https://github.com/Amery2010/HEAD)
@@ -575,7 +575,7 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
-## Contributing
+## Beitragen
 
 **Open an issue or a pull request to suggest changes or additions.**
 
@@ -600,13 +600,17 @@ This branch is responsible for the [gethead.info](https://gethead.info/) website
 
 You may want to go through the [Jekyll Docs](https://jekyllrb.com/docs/home/) and understand how Jekyll works before working on this branch.
 
-### Contributors
+### Beitragende
 
 Check out all the super awesome [contributors](https://github.com/joshbuchea/HEAD/graphs/contributors).
 
-## Author
+## Autor
 
 **[Josh Buchea](https://joshbuchea.com/)**
+
+## Übersetzerin
+
+**Shidigital**
 
 ## License
 
