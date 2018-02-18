@@ -3,7 +3,7 @@
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Contributors](https://img.shields.io/github/contributors/joshbuchea/head.svg)](https://github.com/joshbuchea/HEAD/graphs/contributors)
 
-Alles was in das <head>-Element einer HTML-Datei kommen kann. 
+Alles was in den Kopf-Bereich einer HTML-Datei kommen kann. 
 
 ## Inhaltsverzeichnis
 
@@ -207,42 +207,39 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 <!-- Referriert zu einem Statement zum Urheberrecht im Zusammenhang mit dem angegebenen Link -->
 <link rel="license" href="copyright.html">
 
-<!-- Gibt eine Referenz zu einem Ort im Dokument, welcher eine andere Sprache benutzt -->
+<!-- Gibt eine Referenz zu einem Bereich im Dokument, welcher eine andere Sprache benutzt -->
 <link rel="alternate" href="https://es.example.com/" hreflang="es">
 
-
-***ab hier weiter***
-
-<!-- Provides information about an author or another person -->
+<!-- Gibt Informationen über den Autor oder eine andere Person -->
 <link rel="me" href="https://google.com/profiles/thenextweb" type="text/html">
 <link rel="me" href="mailto:name@example.com">
 <link rel="me" href="sms:+15035550125">
 
-<!-- Links to a document that describes a collection of records, documents, or other materials of historical interest -->
+<!-- Verlinkt zu einem Dokument, welches Aufzeichnungen, Dokumente oder andere Materialien von historischem Interesse enthält -->
 <link rel="archives" href="http://example.com/archives/">
 
-<!-- Links to top level resource in an hierarchical structure -->
+<!-- Verlinkt zu einer Top Level Ressource in einer hierarchischen Struktur -->
 <link rel="index" href="http://example.com/article/">
 
-<!-- Provides a self reference - useful when the document has multiple possible references -->
+<!-- Stellt eine Referenz auf sich selbst zur Verfügung - sinnvoll wenn ein Dokument mehrere mögliche Referenzen hat -->
 <link rel="self" type="application/atom+xml" href="http://example.com/atom.xml">
 
-<!-- The first, last, previous, and next documents in a series of documents, respectively -->
+<!-- Das erste, letzte, vorherige und nächste Dokument in einer Serie von Dokumenten -->
 <link rel="first" href="http://example.com/article/">
 <link rel="last" href="http://example.com/article/?page=42">
 <link rel="prev" href="http://example.com/article/?page=1">
 <link rel="next" href="http://example.com/article/?page=3">
 
-<!-- Used when a 3rd party service is utilized to maintain a blog -->
+<!-- Wird genutzt, wenn ein Blog von einer dritten Partei bereitgestellt wird. -->
 <link rel="EditURI" href="http://example.com/xmlrpc.php?rsd" type="application/rsd+xml" title="RSD">
 
-<!-- Forms an automated comment when another WordPress blog links to your WordPress blog or post -->
+<!-- Formuliert einen automatischen Kommentar, wenn ein anderer WordPress Blog auf den eigenen WordPress Blog verlinkt -->
 <link rel="pingback" href="http://example.com/xmlrpc.php">
 
-<!-- Notifies a URL when you link to it on your document -->
+<!-- Informiert eine URL, wenn in diesem Dokument auf diese verlinkt wird -->
 <link rel="webmention" href="http://example.com/webmention">
 
-<!-- Enables posting to your own domain using a Micropub client -->
+<!-- Erlaubt das Posten an die eigene Domain mit einem Mircopub Client -->
 <link rel="micropub" href="http://example.com/micropub">
 
 <!-- Open Search -->
