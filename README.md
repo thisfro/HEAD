@@ -160,25 +160,23 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 <!-- Erlaubt die Kontrolle darüber, wie Referrer Information weitergeleitet wird -->
 <meta name="referrer" content="no-referrer">
 
-**hier weiter**
-
-<!-- Disable automatic detection and formatting of possible phone numbers -->
+<!-- Keine automatische Erkennung und Formattierung von Telefonnummern erlauben -->
 <meta name="format-detection" content="telephone=no">
 
-<!-- Completely opt out of DNS prefetching by setting to "off" -->
+<!-- Kein DNS Prefetching erlauben -->
 <meta http-equiv="x-dns-prefetch-control" content="off">
 
-<!-- Stores a cookie on the client web browser for identification purposes -->
+<!-- Speichert ein Cookie im Webbrowser des Benutzers, um diesen identifizieren zu können -->
 <meta http-equiv="set-cookie" content="name=value; expires=date; path=url">
 
-<!-- Specifies the document to appear in a specific frame -->
+<!-- Gibt an, in welchem speziellen Frame das Dokument erscheinen soll -->
 <meta http-equiv="Window-Target" content="_value">
 
-<!-- Geo tags -->
+<!-- Geo-Tags -->
 <meta name="ICBM" content="latitude, longitude">
 <meta name="geo.position" content="latitude;longitude">
-<meta name="geo.region" content="country[-state]"><!-- Country code (ISO 3166-1): mandatory, state code (ISO 3166-2): optional; eg. content="US" / content="US-NY" -->
-<meta name="geo.placename" content="city/town"><!-- eg. content="New York City" -->
+<meta name="geo.region" content="country[-state]"><!-- Ländercode (ISO 3166-1): obligatorisch, Code des US-Staates (ISO 3166-2): optional; z.B. content="US" / content="US-NY" -->
+<meta name="geo.placename" content="city/town"><!-- z.B. content="New York City" -->
 ```
 
 - 📖 [Meta tags that Google understands](https://support.google.com/webmasters/answer/79812?hl=en)
