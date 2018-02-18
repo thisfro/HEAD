@@ -258,7 +258,7 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 <link rel="preload" href="image.png" as="image">
 ```
 
-- 📖 [Link Relations](https://www.iana.org/assignments/link-relations/link-relations.xhtml)
+- 📖 [Link Relations](https://www.iana.org/assignments/link-relations/link-relations.xhtml) (auf Englisch)
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
@@ -278,10 +278,10 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 <link rel="mask-icon" href="/path/to/icon.svg" color="blue">
 ```
 
-- 📖 [All About Favicons (And Touch Icons)](https://bitsofco.de/all-about-favicons-and-touch-icons/)
-- 📖 [Creating Pinned Tab Icons](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/pinnedTabs/pinnedTabs.html)
-- 📖 [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
-- 📖 [Icons & Browser Colors](https://developers.google.com/web/fundamentals/design-and-ux/browser-customization/)
+- 📖 [All About Favicons (And Touch Icons)](https://bitsofco.de/all-about-favicons-and-touch-icons/) (auf Englisch)
+- 📖 [Creating Pinned Tab Icons](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/pinnedTabs/pinnedTabs.html) (auf Englisch)
+- 📖 [Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet) (auf Englisch)
+- 📖 [Icons & Browser Colors](https://developers.google.com/web/fundamentals/design-and-ux/browser-customization/) (auf Englisch)
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
@@ -293,37 +293,37 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 <meta property="fb:app_id" content="123456789">
 <meta property="og:url" content="http://example.com/page.html">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Content Title">
+<meta property="og:title" content="Titel der Webseite">
 <meta property="og:image" content="http://example.com/image.jpg">
-<meta property="og:description" content="Description Here">
+<meta property="og:description" content="Beschreibung der Webseite">
 <meta property="og:site_name" content="Site Name">
 <meta property="og:locale" content="en_US">
 <meta property="article:author" content="">
 ```
 
 - 📖 [Facebook Open Graph Markup](https://developers.facebook.com/docs/sharing/webmasters#markup)
-- 📖 [Open Graph protocol](http://ogp.me/)
-- 🛠 Test your page with the [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/)
+- 📖 [Open Graph protocol](http://ogp.me/) (auf Englisch)
+- 🛠 Test your page with the [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/) (auf Englisch)
 
 ### Twitter Card
 
 ```html
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="Zuammenfassung">
 <meta name="twitter:site" content="@site_account">
 <meta name="twitter:creator" content="@individual_account">
 <meta name="twitter:url" content="http://example.com/page.html">
-<meta name="twitter:title" content="Content Title">
-<meta name="twitter:description" content="Content description less than 200 characters">
+<meta name="twitter:title" content="Titel der Webseite">
+<meta name="twitter:description" content="Beschreibung der Seite in weniger als 200 Zeichen">
 <meta name="twitter:image" content="http://example.com/image.jpg">
 ```
 
-- 📖 [Getting started with cards — Twitter Developers](https://dev.twitter.com/cards/getting-started)
-- 🛠 Test your page with the [Twitter Card Validator](https://cards-dev.twitter.com/validator)
+- 📖 [Getting started with cards — Twitter Developers](https://dev.twitter.com/cards/getting-started) (auf Englisch)
+- 🛠 Test your page with the [Twitter Card Validator](https://cards-dev.twitter.com/validator) (auf Englisch)
 
-### Twitter Privacy
-If you embed tweets in your website, Twitter can use information from your site to tailor content and suggestions to Twitter users. [More about Twitter privacy options](https://dev.twitter.com/web/overview/privacy#what-privacy-options-do-website-publishers-have).
+### Twitter Privatsphäre
+Wenn Tweets in die Webseite eingebunden werden, dann kann Twitter Informationen von der Webseite nutzen, um  Twitter Nutzern passende Inhalte anzuzeigen. [Mehr über Twitters Privatsphäre Einstellungen](https://dev.twitter.com/web/overview/privacy#what-privacy-options-do-website-publishers-have).
 ```html
-<!-- disallow Twitter from using your site's info for personalization purposes -->
+<!-- verbietet Twitter die Nutzung der Inhalte der Webseite für Personalisierungszwecke -->
 <meta name="twitter:dnt" content="on">
 ```
 
@@ -334,21 +334,21 @@ If you embed tweets in your website, Twitter can use information from your site 
     <head>
       <link rel="author" href="">
       <link rel="publisher" href="">
-      <meta itemprop="name" content="Content Title">
-      <meta itemprop="description" content="Content description less than 200 characters">
+      <meta itemprop="name" content="Titel der Seite">
+      <meta itemprop="description" content="Beschreibung der Seite in weniger als 200 Zeichen">
       <meta itemprop="image" content="http://example.com/image.jpg">
 ```
 
-**Note:** This markup requires attributes to be added to your top html tag
+**Hinweis:** Dieses Markup verlangt Attribute im ersten html-Tag
 
-- 🛠 Test your page with the [Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/)
+- 🛠 Testen Sie die Webseite mit dem [Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/)
 
 ### Pinterest
 
-Pinterest lets you prevent people from saving things from your website, according [to their help center](https://help.pinterest.com/en/articles/prevent-people-saving-things-pinterest-your-site). The `description` is optional.
+Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern können. [Pinterests Hilfecenter](https://help.pinterest.com/en/articles/prevent-people-saving-things-pinterest-your-site). Die `description` ist optional.
 
 ```html
-<meta name="pinterest" content="nopin" description="Sorry, you can't save from my website!">
+<meta name="pinterest" content="nopin" description="Du kannst nicht von dieser Webseite speichern!">
 ```
 
 ### Facebook Instant Articles
@@ -357,15 +357,15 @@ Pinterest lets you prevent people from saving things from your website, accordin
 <meta charset="utf-8">
 <meta property="op:markup_version" content="v1.0">
 
-<!-- The URL of the web version of your article -->
+<!-- Die URL der Webversion des entsprechenden Artikels -->
 <link rel="canonical" href="http://example.com/article.html">
 
-<!-- The style to be used for this article -->
+<!-- Der Style der für diesen Artikel genutzt werden soll -->
 <meta property="fb:article_style" content="myarticlestyle">
 ```
 
-- 📖 [Creating Articles - Instant Articles](https://developers.facebook.com/docs/instant-articles/guides/articlecreate)
-- 📖 [Code Samples - Instant Articles](https://developers.facebook.com/docs/instant-articles/reference)
+- 📖 [Creating Articles - Instant Articles](https://developers.facebook.com/docs/instant-articles/guides/articlecreate) (auf Englisch)
+- 📖 [Code Samples - Instant Articles](https://developers.facebook.com/docs/instant-articles/reference) (auf Englisch)
 
 ### OEmbed
 
@@ -378,7 +378,7 @@ Pinterest lets you prevent people from saving things from your website, accordin
   title="oEmbed Profile: XML">
 ```
 
-- 📖 [oEmbed format](http://oembed.com/)
+- 📖 [oEmbed format](http://oembed.com/) (auf Englisch)
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
@@ -390,22 +390,22 @@ Pinterest lets you prevent people from saving things from your website, accordin
 <!-- Smart App Banner -->
 <meta name="apple-itunes-app" content="app-id=APP_ID,affiliate-data=AFFILIATE_ID,app-argument=SOME_TEXT">
 
-<!-- Disable automatic detection and formatting of possible phone numbers -->
+<!-- Verhindert die automatische Erkennung und Formattierung von Telefonnummern -->
 <meta name="format-detection" content="telephone=no">
 
-<!-- Launch Icon (180x180px or larger) -->
+<!-- Start Icon (180x180px oder größer) -->
 <link rel="apple-touch-icon" href="/path/to/apple-touch-icon.png">
 
-<!-- Launch Screen Image -->
+<!-- Start Screen Bild -->
 <link rel="apple-touch-startup-image" href="/path/to/launch.png">
 
-<!-- Launch Icon Title -->
-<meta name="apple-mobile-web-app-title" content="App Title">
+<!-- Start Icon Titel -->
+<meta name="apple-mobile-web-app-title" content="App Titel">
 
-<!-- Enable standalone (full-screen) mode -->
+<!-- Erlaubt Standalone (full-screen) Modus -->
 <meta name="apple-mobile-web-app-capable" content="yes">
 
-<!-- Status bar appearance (has no effect unless standalone mode is enabled) -->
+<!-- Aussehen der Statusbar (hat keinen Effekt, wenn nicht Standalone Modus aktiv ist) -->
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
 <!-- iOS app deep linking -->
@@ -413,16 +413,16 @@ Pinterest lets you prevent people from saving things from your website, accordin
 <link rel="alternate" href="ios-app://APP-ID/http/url-sample.com">
 ```
 
-- 📖 [Configuring Web Applications](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
+- 📖 [Configuring Web Applications](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html) (auf Englisch)
 
 ### Google Android
 
 ```html
 <meta name="theme-color" content="#E64545">
 
-<!-- Add to home screen -->
+<!-- Dem Startbildschirm hinzufügen -->
 <meta name="mobile-web-app-capable" content="yes">
-<!-- More info: https://developer.chrome.com/multidevice/android/installtohomescreen -->
+<!-- Mehr Infos: https://developer.chrome.com/multidevice/android/installtohomescreen -->
 
 <!-- Android app deep linking -->
 <meta name="google-play-app" content="app-id=package-name">
@@ -434,7 +434,7 @@ Pinterest lets you prevent people from saving things from your website, accordin
 ```html
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/APP_ID">
 
-<!-- Disable translation prompt -->
+<!-- Verhindert Übersetzung -->
 <meta name="google" content="notranslate">
 ```
 
