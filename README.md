@@ -3,8 +3,8 @@
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Contributors](https://img.shields.io/github/contributors/joshbuchea/head.svg)](https://github.com/joshbuchea/HEAD/graphs/contributors)
 
-Alles was in den Kopf-Bereich einer HTML-Datei kommen kann. 
-Dies ist die deutsche Übersetzung von https://github.com/joshbuchea
+*Alles was in den Kopf-Bereich einer HTML-Datei kommen kann.*
+Dies ist die deutsche Übersetzung des Dokumentes [gethead.info](https://gethead.info/) von https://github.com/joshbuchea
 
 ## Inhaltsverzeichnis
 
