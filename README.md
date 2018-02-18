@@ -610,7 +610,7 @@ Check out all the super awesome [contributors](https://github.com/joshbuchea/HEA
 
 ## Übersetzerin
 
-**Shidigital**
+**[Shidigital](https://github.com/Shidigital)**
 
 ## License
 
