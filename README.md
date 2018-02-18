@@ -441,18 +441,18 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 ### Microsoft Internet Explorer
 
 ```html
-<!-- Force IE 8/9/10 to use its latest rendering engine -->
+<!-- Zwingt IE 8/9/10 die neueste Rendering Engine zu nutzen -->
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-<!-- Disable automatic detection and formatting of possible phone numbers by Skype Toolbar browser extension -->
+<!-- Verhindert die automatische Erkennung und Formattierung von Telefonnummern durch die Skype Toolbar Browser Erweiterung -->
 <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
 
-<!-- IE10: Disable link highlighting upon tap (https://blogs.windows.com/buildingapps/2012/11/15/adapting-your-webkit-optimized-site-for-internet-explorer-10/) -->
+<!-- IE10: Verhindert das Hervorheben von Links durch Berührung (https://blogs.windows.com/buildingapps/2012/11/15/adapting-your-webkit-optimized-site-for-internet-explorer-10/) -->
 <meta name="msapplication-tap-highlight" content="no">
 
-<!-- Pinned sites (https://msdn.microsoft.com/en-us/library/dn255024(v=vs.85).aspx) -->
-<meta name="application-name" content="Sample Title">
-<meta name="msapplication-tooltip" content="A description of what this site does.">
+<!-- Gepinnte Seiten (https://msdn.microsoft.com/en-us/library/dn255024(v=vs.85).aspx) -->
+<meta name="application-name" content="Beispiel Titel">
+<meta name="msapplication-tooltip" content="Eine Beschreibung darüber, was die Seite tut.">
 <meta name="msapplication-starturl" content="http://example.com/index.html?pinned=true">
 <meta name="msapplication-navbutton-color" content="#FF3300">
 <meta name="msapplication-window" content="width=800;height=600">
@@ -469,50 +469,50 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
-## Browsers (Chinese)
+## Browser (Chinese)
 
 ### 360 Browser
 
 ```html
-<!-- Select rendering engine order -->
+<!-- Wählt die Reihenfolge der Rendering Engines -->
 <meta name="renderer" content="webkit|ie-comp|ie-stand">
 ```
 
 ### QQ Mobile Browser
 
 ```html
-<!-- Locks the screen into the specified orientation -->
+<!-- Hält den Bildschirm in einer bestimmten Orientierung -->
 <meta name="x5-orientation" content="landscape/portrait">
 
-<!-- Display this document in fullscreen -->
+<!-- Zeigt das Dokument im Vollbildmodus -->
 <meta name="x5-fullscreen" content="true">
 
-<!-- Document will be displayed in "application mode" (fullscreen, etc.) -->
+<!-- Zeigt das Dokument im "application mode" (Vollbild, usw.) -->
 <meta name="x5-page-mode" content="app">
 ```
 
 ### UC Mobile Browser
 
 ```html
-<!-- Locks the screen into the specified orientation -->
+<!-- Hält den Bildschirm in einer bestimmten Orientierung -->
 <meta name="screen-orientation" content="landscape/portrait">
 
-<!-- Display this document in fullscreen -->
+<!-- Zeigt das Dokument im Vollbildmodus -->
 <meta name="full-screen" content="yes">
 
-<!-- UC browser will display images even if in "text mode" -->
+<!-- UC Browser zeigt Bilder auch dann an, wenn in "text mode" -->
 <meta name="imagemode" content="force">
 
-<!-- Document will be displayed in "application mode"(fullscreen, forbidding gesture, etc.) -->
+<!-- Zeigt das Dokument im "application mode" (Vollbild, verbotene Bewegungen, usw.) -->
 <meta name="browsermode" content="application">
 
-<!-- Disabled the UC browser's "night mode" for this document -->
+<!-- Verhindert den "Nachtmodus" des UC Browsers für dieses Dokument -->
 <meta name="nightmode" content="disable">
 
-<!-- Simplify the document to reduce data transfer -->
+<!-- Vereinfacht das Dokument, um Datentransfer zu reduzieren -->
 <meta name="layoutmode" content="fitscreen">
 
-<!-- Disable the UC browser's feature of "scaling font up when there are many words in this document" -->
+<!-- Verhindert im UC Browser das Vergößern der Schrift, wenn viele Wörter im Dokument sind -->
 <meta name="wap-font-scale" content="no">
 ```
 
@@ -539,7 +539,7 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 
 - 📖 [App Links](http://applinks.org/documentation/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ nach oben](#inhaltsverzeichnis)**
 
 ## Other Resources
 
