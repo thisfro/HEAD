@@ -4,7 +4,8 @@
 [![Contributors](https://img.shields.io/github/contributors/joshbuchea/head.svg)](https://github.com/joshbuchea/HEAD/graphs/contributors)
 
 *Alles was in den Kopf-Bereich einer HTML-Datei kommen kann.*
-Dies ist die deutsche Übersetzung des Dokumentes [gethead.info](https://gethead.info/) von https://github.com/joshbuchea
+
+Dies ist die deutsche Übersetzung des Dokumentes [gethead.info](https://gethead.info/) von [Josh Buchea](https://github.com/joshbuchea) .
 
 ## Inhaltsverzeichnis
 
