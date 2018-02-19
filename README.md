@@ -22,17 +22,17 @@ Dies ist die deutsche Übersetzung des Dokumentes [gethead.info](https://gethead
   - [Pinterest](#pinterest)
   - [Facebook Instant Articles](#facebook-instant-articles)
   - [OEmbed](#oembed)
-- [Browsers / Platforms](#browsers--platforms)
+- [Browser / Plattformen](#browser--platformen)
   - [Apple iOS](#apple-ios)
   - [Google Android](#google-android)
   - [Google Chrome](#google-chrome)
   - [Microsoft Internet Explorer](#microsoft-internet-explorer)
-- [Browsers (Chinese)](#browsers-chinese)
+- [Browser (Chinese)](#browser-chinese)
   - [360 Browser](#360-browser)
   - [QQ Mobile Browser](#qq-mobile-browser)
   - [UC Mobile Browser](#uc-mobile-browser)
 - [App Links](#app-links)
-- [Weitere Ressourcen](#weitere-resources)
+- [Weitere Ressourcen](#weitere-ressourcen)
 - [Verwandte Projekte](#verwandte-projekte)
 - [Andere Formate](#andere-formate)
 - [Übersetzungen](#übersetzungen)
@@ -384,7 +384,7 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
-## Browsers / Platforms
+## Browser / Plattformen
 
 ### Apple iOS
 
