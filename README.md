@@ -561,7 +561,7 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 
 ## Andere Formate
 
-- 📄 [PDF](https://gitprint.com/joshbuchea/HEAD/blob/master/README.md) (auf Englisch)
+- 📄 [PDF](https://gitprint.com/Shidigital/HEAD/blob/master/README.md)
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
