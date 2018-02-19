@@ -366,8 +366,8 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 <meta property="fb:article_style" content="myarticlestyle">
 ```
 
-- 📖 [Creating Articles - Instant Articles](https://developers.facebook.com/docs/instant-articles/guides/articlecreate) (auf Englisch)
-- 📖 [Code Samples - Instant Articles](https://developers.facebook.com/docs/instant-articles/reference) (auf Englisch)
+- 📖 [Creating Articles - Instant Articles](https://developers.facebook.com/docs/instant-articles/guides/articlecreate)
+- 📖 [Code Samples - Instant Articles](https://developers.facebook.com/docs/instant-articles/reference)
 
 ### OEmbed
 
@@ -518,7 +518,7 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 <meta name="wap-font-scale" content="no">
 ```
 
-- 📖 [UC Browser Docs](http://www.uc.cn/download/UCBrowser_U3_API.doc) (auf Englisch)
+- 📖 [UC Browser Docs](http://www.uc.cn/download/UCBrowser_U3_API.doc) (auf Chinesisch)(Download)
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
@@ -561,7 +561,7 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 
 ## Andere Formate
 
-- 📄 [PDF](https://gitprint.com/Shidigital/HEAD/blob/master/README.md)
+- 📄 [PDF](https://gitprint.com/Shidigital/HEAD/blob/master/README.md)(Download)
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
 
@@ -583,7 +583,7 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 
 ### Beitragende
 
-Hier sind alle Beitragende zu diesem Dokument zu sehen [contributors](https://github.com/Shidigital/HEAD/graphs/contributors).
+Hier sind alle Beitragende zu diesem Dokument zu sehen: [Contributors](https://github.com/Shidigital/HEAD/graphs/contributors).
 
 ## Autor
 
