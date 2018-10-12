@@ -554,7 +554,7 @@ Pinterest hilft zu verhindern, dass Leute Dinge von der Webseite speichern könn
 
 - [Atom HTML Head Snippets](https://github.com/joshbuchea/atom-html-head-snippets) - Atom package für `HEAD` Snippets
 - [Sublime Text HTML Head Snippets](https://github.com/marcobiedermann/sublime-head-snippets) - Sublime Text package für `HEAD` Snippets
-- [head-it](https://github.com/hemanth/head-it) - CLI interface für `HEAD` Snippets
+- [head-it](https://github.com/hemanth/head-it) - CLI für `HEAD` Snippets
 - [vue-head](https://github.com/ktquez/vue-head) - Manipulieren der Meta Information in dem `HEAD` Tag mit Vue.js
 
 **[⬆ nach oben](#inhaltsverzeichnis)**
