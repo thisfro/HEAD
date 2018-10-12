@@ -50,11 +50,11 @@ Unten sind die essentiellen Elemente eines jeden Webdokumentes (Webseiten/Apps):
 <meta http-equiv="x-ua-compatible" content="ie=edge"> <!-- † -->
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <!--
-  Diese 3 Meta-Tags *müssen* in jedem <head>-Element als erstes stehen, 
+  Diese 3 Meta-Tags *müssen* in jedem <head>-Element als erstes stehen,
   um sicherzustellen, dass das Dokument richtig dargestellt wird.
   Alle anderen Elemente im <head>-Element sollten *nach* diesen Tags stehen.
 
-  † Man benutzt den content="ie-edge" Tag, wenn das Projekt 
+  † Man benutzt den content="ie-edge" Tag, wenn das Projekt
     Internet Explorer vor Version 11 unterstützt.
  -->
 <title>Seiten Titel</title>
@@ -70,8 +70,8 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 
 ```html
 <!--
-  Legt die Zeichenkodierung für dieses Dokument fest, so 
-  das alle Zeichen innerhalb UTF-8 (zum Beispiel Umlaute)
+  Legt die Zeichenkodierung für dieses Dokument fest, so
+  dass alle Zeichen innerhalb UTF-8 (zum Beispiel Umlaute)
   richtig dargestellt werden.
 -->
 <meta charset="utf-8">
@@ -79,7 +79,7 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 <!-- Legt den Titel des Dokumentes fest -->
 <title>Page Title</title>
 
-<!-- Legt die Basis URL für alle relativen URLs 
+<!-- Legt die Basis URL für alle relativen URLs
   innerhalb des Dokumentes fest -->
 <base href="http://example.com/page.html">
 
@@ -97,7 +97,7 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
   // function(s) go here
 </script>
 <noscript>
-  <!-- Kein JS - Alternative -->
+  <!-- Keine JS - Alternative -->
 </noscript>
 ```
 
@@ -107,7 +107,7 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 
 ```html
 <!--
-  Diese 3 Meta-Tags *müssen* in jedem <head>-Element als erstes stehen, 
+  Diese 3 Meta-Tags *müssen* in jedem <head>-Element als erstes stehen,
   um sicherzustellen, dass das Dokument richtig dargestellt wird.
   Alle anderen Elemente im <head>-Element sollten *nach* diesen Tags stehen.
 -->
@@ -116,8 +116,8 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 <!--
-  Erlaubt die Kontrolle, von wo Ressourcen geladen werden.
-  Sollte so weit obend wie möglich im <head> platziert werden, da 
+  Gibt Kontrolle darüber, von wo Ressourcen geladen werden.
+  Sollte so weit oben wie möglich im <head> platziert werden, da
   nur die Ressourcen nach diesem Tag berücksichtigt werden.
 -->
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
@@ -132,14 +132,14 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
      Diese wird möglicherweise in Suchmaschinen angezeigt. -->
 <meta name="description" content="Eine Beschreibung der Webseite">
 
-<!-- Kontrolliert das Verhalten von Suchmaschinen-Crawlern und Indexierung der Seite -->
+<!-- Kontrolliert das Verhalten von Suchmaschinen-Crawlern und die Indexierung der Seite -->
 <meta name="robots" content="index,follow"><!-- Alle Suchmaschinen -->
 <meta name="googlebot" content="index,follow"><!-- Speziell an Google -->
 
 <!-- Sagt Google, dass in der Suche keine Sitelinks-Suchbox auftauchen soll -->
 <meta name="google" content="nositelinkssearchbox">
 
-<!-- Sagt Google, dass es keine Übersetzung für das Dokument bereitstellen soll -->
+<!-- Sagt Google, dass keine Übersetzung für das Dokument bereitgestellt werden soll -->
 <meta name="google" content="notranslate">
 
 <!-- Verifikation des Besitzers der Webseite -->
@@ -159,7 +159,7 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 <!-- Gibt eine Altersfreigabe für das Dokument an -->
 <meta name="rating" content="General">
 
-<!-- Erlaubt die Kontrolle darüber, wie Referrer Information weitergeleitet wird -->
+<!-- Erlaubt die Kontrolle darüber, wie Referrer Informationen weitergeleitet werden -->
 <meta name="referrer" content="no-referrer">
 
 <!-- Keine automatische Erkennung und Formattierung von Telefonnummern erlauben -->
@@ -320,7 +320,7 @@ Diese Elemente stellen Informationen bereit, wie das Dokument von den verschiede
 ```
 
 - 📖 [Getting started with cards — Twitter Developers](https://dev.twitter.com/cards/getting-started) (auf Englisch)
-- 🛠 Test your page with the [Twitter Card Validator](https://cards-dev.twitter.com/validator) (auf Englisch)
+- 🛠 Testen Sie die Webseite mit dem [Twitter Card Validator](https://cards-dev.twitter.com/validator) (auf Englisch)
 
 ### Twitter Privatsphäre
 Wenn Tweets in die Webseite eingebunden werden, dann kann Twitter Informationen von der Webseite nutzen, um  Twitter Nutzern passende Inhalte anzuzeigen. [Mehr über Twitters Privatsphäre Einstellungen](https://dev.twitter.com/web/overview/privacy#what-privacy-options-do-website-publishers-have).
@@ -347,7 +347,7 @@ Wenn Tweets in die Webseite eingebunden werden, dann kann Twitter Informationen 
 
 ### Pinterest
 
-Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern können. [Pinterests Hilfecenter](https://help.pinterest.com/en/articles/prevent-people-saving-things-pinterest-your-site). Die `description` ist optional.
+Pinterest hilft zu verhindern, dass Leute Dinge von der Webseite speichern können. [Pinterests Hilfecenter](https://help.pinterest.com/en/articles/prevent-people-saving-things-pinterest-your-site). Die `description` ist optional.
 
 ```html
 <meta name="pinterest" content="nopin" description="Du kannst nicht von dieser Webseite speichern!">
@@ -407,7 +407,7 @@ Pinterest hilft zu verhindern, das Leute Dinge von der Webseite speichern könne
 <!-- Erlaubt Standalone (full-screen) Modus -->
 <meta name="apple-mobile-web-app-capable" content="yes">
 
-<!-- Aussehen der Statusbar (hat keinen Effekt, wenn nicht Standalone Modus aktiv ist) -->
+<!-- Aussehen der Statusbar (hat keinen Effekt, wenn Standalone Modus nicht aktiv ist) -->
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
 <!-- iOS app deep linking -->
